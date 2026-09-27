@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/EbrahimKhalid">GitHub</a> •
   <a href="https://www.linkedin.com/in/ebrahim-khalid-810936393/">LinkedIn</a> •
-  <a href="ebrahimkhalid19@gmail.com">Email</a>
+  <a href="ebrahimkhalid193@gmail.com">Email</a>
 </p>
 
 <p align="left">
