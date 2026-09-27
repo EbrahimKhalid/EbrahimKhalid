@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/your-github-username">GitHub</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ebrahim-khalid-810936393/">LinkedIn</a> •
   <a href="mailto:your-email@example.com">Email</a>
 </p>
 
