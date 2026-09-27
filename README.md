@@ -5,9 +5,9 @@
 <h4 align="center">Full Stack Developer specializing in C# (.NET) & Angular</h4>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">GitHub</a> •
+  <a href="https://github.com/EbrahimKhalid">GitHub</a> •
   <a href="https://www.linkedin.com/in/ebrahim-khalid-810936393/">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="ebrahimkhalid193@gmail.com">Email</a>
 </p>
 
 <p align="left">
